@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API_Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|d:\\api_tutorial\\businessacceslayer\\businessacesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|solutionrelative:businessacceslayer\\businessacesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|d:\\api_tutorial\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|d:\\api_tutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|d:\\api_tutorial\\model\\domain\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|solutionrelative:model\\domain\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|d:\\api_tutorial\\dataacceslayer\\apitutorialcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|solutionrelative:dataacceslayer\\apitutorialcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|d:\\api_tutorial\\businessacceslayer\\ibusinessacesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|solutionrelative:businessacceslayer\\ibusinessacesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|d:\\api_tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|d:\\api_tutorial\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|d:\\api_tutorial\\apitutorial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD1EFE07-7573-4F18-BE6F-77EEF963F928}|ApiTutorial.csproj|solutionrelative:apitutorial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API_Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\API_Tutorial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:21:05.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiTutorialContext.cs",
+              "DocumentMoniker": "D:\\API_Tutorial\\DataAccesLayer\\ApiTutorialContext.cs",
+              "RelativeDocumentMoniker": "DataAccesLayer\\ApiTutorialContext.cs",
+              "ToolTip": "D:\\API_Tutorial\\DataAccesLayer\\ApiTutorialContext.cs",
+              "RelativeToolTip": "DataAccesLayer\\ApiTutorialContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:17:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\API_Tutorial\\Model\\Domain\\Customers.cs",
+              "RelativeDocumentMoniker": "Model\\Domain\\Customers.cs",
+              "ToolTip": "D:\\API_Tutorial\\Model\\Domain\\Customers.cs",
+              "RelativeToolTip": "Model\\Domain\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:16:08.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\API_Tutorial\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\API_Tutorial\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T13:13:25.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\API_Tutorial\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\API_Tutorial\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:08:04.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessAcessLayer.cs",
+              "DocumentMoniker": "D:\\API_Tutorial\\BusinessAccesLayer\\BusinessAcessLayer.cs",
+              "RelativeDocumentMoniker": "BusinessAccesLayer\\BusinessAcessLayer.cs",
+              "ToolTip": "D:\\API_Tutorial\\BusinessAccesLayer\\BusinessAcessLayer.cs*",
+              "RelativeToolTip": "BusinessAccesLayer\\BusinessAcessLayer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:11:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBusinessAcessLayer.cs",
+              "DocumentMoniker": "D:\\API_Tutorial\\BusinessAccesLayer\\IBusinessAcessLayer.cs",
+              "RelativeDocumentMoniker": "BusinessAccesLayer\\IBusinessAcessLayer.cs",
+              "ToolTip": "D:\\API_Tutorial\\BusinessAccesLayer\\IBusinessAcessLayer.cs",
+              "RelativeToolTip": "BusinessAccesLayer\\IBusinessAcessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:11:32.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\API_Tutorial\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\API_Tutorial\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T13:46:15.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiTutorial",
+              "DocumentMoniker": "D:\\API_Tutorial\\ApiTutorial.csproj",
+              "RelativeDocumentMoniker": "ApiTutorial.csproj",
+              "ToolTip": "D:\\API_Tutorial\\ApiTutorial.csproj",
+              "RelativeToolTip": "ApiTutorial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T13:08:44.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
